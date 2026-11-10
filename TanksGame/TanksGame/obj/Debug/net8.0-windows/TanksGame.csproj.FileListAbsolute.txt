@@ -1,0 +1,233 @@
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.exe
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll.config
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.deps.json
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.runtimeconfig.json
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.pdb
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.Mathematics.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.AssemblyReference.cache
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Properties.Resources.resources
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.GenerateResource.cache
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfoInputs.cache
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfo.cs
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.Up2Date
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\refint\TanksGame.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.pdb
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.genruntimeconfig.cache
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\ref\TanksGame.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.SettingsForm.resources
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.Form1.resources
+C:\Users\VICTUS\source\repos\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.WinnerForm.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.exe
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll.config
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.deps.json
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.runtimeconfig.json
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.pdb
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.Mathematics.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.AssemblyReference.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.Form1.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Properties.Resources.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.SettingsForm.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.WinnerForm.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.GenerateResource.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfoInputs.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfo.cs
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.CoreCompileInputs.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.Up2Date
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\refint\TanksGame.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.pdb
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.genruntimeconfig.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\ref\TanksGame.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame (2)\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.GameForm.resources
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.exe
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll.config
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.deps.json
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.runtimeconfig.json
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.pdb
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.dll
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Asio.dll
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Core.dll
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Midi.dll
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.dll
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+D:\TanksGame\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.Mathematics.dll
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.AssemblyReference.cache
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.Form1.resources
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.GameForm.resources
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Properties.Resources.resources
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.SettingsForm.resources
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.WinnerForm.resources
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.GenerateResource.cache
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfoInputs.cache
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfo.cs
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.CoreCompileInputs.cache
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.Up2Date
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.dll
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\refint\TanksGame.dll
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.pdb
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.genruntimeconfig.cache
+D:\TanksGame\TanksGame\TanksGame\obj\Debug\net8.0-windows\ref\TanksGame.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\TanksGame.exe
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll.config
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\TanksGame.deps.json
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\TanksGame.runtimeconfig.json
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\TanksGame.pdb
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\bin\Debug\net8.0-windows\OpenTK.Mathematics.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.AssemblyReference.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.Form1.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.GameForm.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame.Properties.Resources.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.SettingsForm.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame2026.WinnerForm.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.GenerateResource.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfoInputs.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfo.cs
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.CoreCompileInputs.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.Up2Date
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\refint\TanksGame.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame.pdb
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\TanksGame.genruntimeconfig.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame(new)\TanksGame\obj\Debug\net8.0-windows\ref\TanksGame.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.exe
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll.config
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.deps.json
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.runtimeconfig.json
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.pdb
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.Mathematics.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.AssemblyReference.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Properties.Resources.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.GenerateResource.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfoInputs.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfo.cs
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.CoreCompileInputs.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.Up2Date
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\refint\TanksGame.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.pdb
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.genruntimeconfig.cache
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\ref\TanksGame.dll
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Windows.Form1.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Windows.GameForm.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Windows.SettingsForm.resources
+C:\Users\my_laptop\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Windows.WinnerForm.resources
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.exe
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll.config
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.deps.json
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.runtimeconfig.json
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.runtimeconfig.dev.json
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.pdb
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.Mathematics.dll
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.AssemblyReference.cache
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Properties.Resources.resources
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Windows.Form1.resources
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Windows.GameForm.resources
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Windows.SettingsForm.resources
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Windows.WinnerForm.resources
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.GenerateResource.cache
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfoInputs.cache
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfo.cs
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.CoreCompileInputs.cache
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.Up2Date
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.dll
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\refint\TanksGame.dll
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.pdb
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.genruntimeconfig.cache
+C:\Users\Servise-nout\Desktop\my_university\semester_4\Курсовая работа\TanksGame\TanksGame\obj\Debug\net8.0-windows\ref\TanksGame.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.exe
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll.config
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.deps.json
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.runtimeconfig.json
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.runtimeconfig.dev.json
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\TanksGame.pdb
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\bin\Debug\net8.0-windows\OpenTK.Mathematics.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.AssemblyReference.cache
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Properties.Resources.resources
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Windows.Form1.resources
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Windows.GameForm.resources
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Windows.SettingsForm.resources
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.Windows.WinnerForm.resources
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.GenerateResource.cache
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfoInputs.cache
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.AssemblyInfo.cs
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.CoreCompileInputs.cache
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.sourcelink.json
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.csproj.Up2Date
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\refint\TanksGame.dll
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.pdb
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\TanksGame.genruntimeconfig.cache
+C:\Users\Servise-nout\Downloads\MyProjects\TanksGame\TanksGame\obj\Debug\net8.0-windows\ref\TanksGame.dll

@@ -1,0 +1,42 @@
+2D-игрa танки на C# + OpenGL + Windows Forms.
+
+ Что нужно для запуска проекта:
+1. Установи Visual Studio
+- Скачай и установи **Visual Studio Community 2022** (бесплатно)  
+  https://visualstudio.microsoft.com/downloads/
+
+Во время установки обязательно поставь галочку:
+- **.NET desktop development** (разработка для рабочего стола .NET)
+
+Это даст тебе C#, Windows Forms и всё необходимое.
+
+2. Установи NuGet-пакеты (самое важное — OpenTK)
+
+Открой проект в Visual Studio → правой кнопкой на проекте → **Manage NuGet Packages**
+
+Установи следующие пакеты:
+
+| Пакет               | Версия (рекомендуемая) | Зачем нужен                          |
+|---------------------|------------------------|--------------------------------------|
+| OpenTK              | 1.1.4 или 3.3.3        | OpenGL-графика и GLControl           |
+| OpenTK.GLControl    | 3.3.3 (если используешь) | Контрол для OpenGL в WinForms      |
+| System.Drawing.Common | 8.0.0+ (если ошибки)   | Для работы с Color и т.д.          |
+
+Команды в Package Manager Console (если хочешь одной строкой):
+Install-Package OpenTK -Version 1.1.4
+Install-Package OpenTK.GLControl -Version 3.3.3 
+Install-Package System.Drawing.Common
+
+3. Проверь .csproj
+
+В файле TanksGame2026.csproj должны появиться примерно такие строки:
+
+<ItemGroup>
+  <PackageReference Include="OpenTK" Version="1.1.4" />
+  <PackageReference Include="OpenTK.GLControl" Version="3.3.3" />
+  <!-- или просто OpenTK без GLControl, если новая версия -->
+</ItemGroup>
+4. Сборка и запуск
+
+Открой проект в Visual Studio
+Нажми F5 (или зелёную стрелку) — игра должна запуститься

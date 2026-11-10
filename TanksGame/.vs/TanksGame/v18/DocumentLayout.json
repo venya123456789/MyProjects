@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgame\\gameentities\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|solutionrelative:tanksgame\\gameentities\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgame\\gameentities\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|solutionrelative:tanksgame\\gameentities\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgame\\gameentities\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|solutionrelative:tanksgame\\gameentities\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgame\\gameentities\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|solutionrelative:tanksgame\\gameentities\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgametests\\tiletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|solutionrelative:tanksgametests\\tiletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgametests\\tanktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|solutionrelative:tanksgametests\\tanktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgame\\gameentities\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|solutionrelative:tanksgame\\gameentities\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgame\\tanksgame.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|solutionrelative:tanksgame\\tanksgame.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgametests\\walltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|solutionrelative:tanksgametests\\walltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgametests\\gamemapfactorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|solutionrelative:tanksgametests\\gamemapfactorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgametests\\fortressmapbuildertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|solutionrelative:tanksgametests\\fortressmapbuildertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgametests\\explosiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|solutionrelative:tanksgametests\\explosiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgametests\\duelmapbuildertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|solutionrelative:tanksgametests\\duelmapbuildertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgametests\\bullettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|solutionrelative:tanksgametests\\bullettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|c:\\users\\servise-nout\\downloads\\myprojects\\tanksgame\\tanksgametests\\arenamapbuildertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBB400-3A8F-4C86-B1CD-7009D5ABE793}|TanksGameTests\\TanksGameTest.csproj|solutionrelative:tanksgametests\\arenamapbuildertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 130,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGame\\GameEntities\\Wall.cs",
+              "RelativeDocumentMoniker": "TanksGame\\GameEntities\\Wall.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGame\\GameEntities\\Wall.cs",
+              "RelativeToolTip": "TanksGame\\GameEntities\\Wall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:25:53.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGame\\GameEntities\\Tile.cs",
+              "RelativeDocumentMoniker": "TanksGame\\GameEntities\\Tile.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGame\\GameEntities\\Tile.cs",
+              "RelativeToolTip": "TanksGame\\GameEntities\\Tile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:22:24.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGame\\GameEntities\\Tank.cs",
+              "RelativeDocumentMoniker": "TanksGame\\GameEntities\\Tank.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGame\\GameEntities\\Tank.cs",
+              "RelativeToolTip": "TanksGame\\GameEntities\\Tank.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:25:46.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGame\\GameEntities\\Bullet.cs",
+              "RelativeDocumentMoniker": "TanksGame\\GameEntities\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGame\\GameEntities\\Bullet.cs",
+              "RelativeToolTip": "TanksGame\\GameEntities\\Bullet.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvw8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:59:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGame\\GameEntities\\Explosion.cs",
+              "RelativeDocumentMoniker": "TanksGame\\GameEntities\\Explosion.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGame\\GameEntities\\Explosion.cs",
+              "RelativeToolTip": "TanksGame\\GameEntities\\Explosion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:59:31.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TanksGame",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGame\\TanksGame.csproj",
+              "RelativeDocumentMoniker": "TanksGame\\TanksGame.csproj",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGame\\TanksGame.csproj",
+              "RelativeToolTip": "TanksGame\\TanksGame.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-25T10:05:19.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WallTest.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\WallTest.cs",
+              "RelativeDocumentMoniker": "TanksGameTests\\WallTest.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\WallTest.cs",
+              "RelativeToolTip": "TanksGameTests\\WallTest.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:18:58.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TileTest.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\TileTest.cs",
+              "RelativeDocumentMoniker": "TanksGameTests\\TileTest.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\TileTest.cs",
+              "RelativeToolTip": "TanksGameTests\\TileTest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:18:46.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TankTest.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\TankTest.cs",
+              "RelativeDocumentMoniker": "TanksGameTests\\TankTest.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\TankTest.cs",
+              "RelativeToolTip": "TanksGameTests\\TankTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:18:34.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameMapFactoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\GameMapFactoryTest.cs",
+              "RelativeDocumentMoniker": "TanksGameTests\\GameMapFactoryTest.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\GameMapFactoryTest.cs",
+              "RelativeToolTip": "TanksGameTests\\GameMapFactoryTest.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:18:22.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FortressMapBuilderTest.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\FortressMapBuilderTest.cs",
+              "RelativeDocumentMoniker": "TanksGameTests\\FortressMapBuilderTest.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\FortressMapBuilderTest.cs",
+              "RelativeToolTip": "TanksGameTests\\FortressMapBuilderTest.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAUwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:17:08.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExplosionTest.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\ExplosionTest.cs",
+              "RelativeDocumentMoniker": "TanksGameTests\\ExplosionTest.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\ExplosionTest.cs",
+              "RelativeToolTip": "TanksGameTests\\ExplosionTest.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:14:13.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DuelMapBuilderTest.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\DuelMapBuilderTest.cs",
+              "RelativeDocumentMoniker": "TanksGameTests\\DuelMapBuilderTest.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\DuelMapBuilderTest.cs",
+              "RelativeToolTip": "TanksGameTests\\DuelMapBuilderTest.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAUwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:13:44.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BulletTest.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\BulletTest.cs",
+              "RelativeDocumentMoniker": "TanksGameTests\\BulletTest.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\BulletTest.cs",
+              "RelativeToolTip": "TanksGameTests\\BulletTest.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:13:23.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArenaMapBuilderTest.cs",
+              "DocumentMoniker": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\ArenaMapBuilderTest.cs",
+              "RelativeDocumentMoniker": "TanksGameTests\\ArenaMapBuilderTest.cs",
+              "ToolTip": "C:\\Users\\Servise-nout\\Downloads\\MyProjects\\TanksGame\\TanksGameTests\\ArenaMapBuilderTest.cs",
+              "RelativeToolTip": "TanksGameTests\\ArenaMapBuilderTest.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:12:27.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

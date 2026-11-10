@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TanksGame\\TanksGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|d:\\tanksgame\\tanksgame\\tanksgame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|solutionrelative:tanksgame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|d:\\tanksgame\\tanksgame\\tanksgame\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|solutionrelative:tanksgame\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|d:\\tanksgame\\tanksgame\\tanksgame\\winnerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|solutionrelative:tanksgame\\winnerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|d:\\tanksgame\\tanksgame\\tanksgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|solutionrelative:tanksgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|d:\\tanksgame\\tanksgame\\tanksgame\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|solutionrelative:tanksgame\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|d:\\tanksgame\\tanksgame\\tanksgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39405619-0385-42D8-973E-C0900A93EC1D}|TanksGame\\TanksGame.csproj|solutionrelative:tanksgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\TanksGame\\TanksGame\\TanksGame\\SoundManager.cs",
+              "RelativeDocumentMoniker": "TanksGame\\SoundManager.cs",
+              "ToolTip": "D:\\TanksGame\\TanksGame\\TanksGame\\SoundManager.cs",
+              "RelativeToolTip": "TanksGame\\SoundManager.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAM0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:30:41.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinnerForm.cs",
+              "DocumentMoniker": "D:\\TanksGame\\TanksGame\\TanksGame\\WinnerForm.cs",
+              "RelativeDocumentMoniker": "TanksGame\\WinnerForm.cs",
+              "ToolTip": "D:\\TanksGame\\TanksGame\\TanksGame\\WinnerForm.cs",
+              "RelativeToolTip": "TanksGame\\WinnerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:30:33.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\TanksGame\\TanksGame\\TanksGame\\Form1.cs",
+              "RelativeDocumentMoniker": "TanksGame\\Form1.cs",
+              "ToolTip": "D:\\TanksGame\\TanksGame\\TanksGame\\Form1.cs",
+              "RelativeToolTip": "TanksGame\\Form1.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwG4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:29:11.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "D:\\TanksGame\\TanksGame\\TanksGame\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "TanksGame\\SettingsForm.cs",
+              "ToolTip": "D:\\TanksGame\\TanksGame\\TanksGame\\SettingsForm.cs",
+              "RelativeToolTip": "TanksGame\\SettingsForm.cs",
+              "ViewState": "AgIAACoCAAAAAAAAAAAQwDQCAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:11:38.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TanksGame\\TanksGame\\TanksGame\\Program.cs",
+              "RelativeDocumentMoniker": "TanksGame\\Program.cs",
+              "ToolTip": "D:\\TanksGame\\TanksGame\\TanksGame\\Program.cs",
+              "RelativeToolTip": "TanksGame\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:37:56.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "D:\\TanksGame\\TanksGame\\TanksGame\\GameForm.cs",
+              "RelativeDocumentMoniker": "TanksGame\\GameForm.cs",
+              "ToolTip": "D:\\TanksGame\\TanksGame\\TanksGame\\GameForm.cs",
+              "RelativeToolTip": "TanksGame\\GameForm.cs",
+              "ViewState": "AgIAAGIFAAAAAAAAAAAqwG4FAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:37:54.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
